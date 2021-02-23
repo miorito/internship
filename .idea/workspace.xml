@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8779d610-9887-4085-8fa3-56836c9492b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets3/css/contact-us.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/01@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/02@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/03@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/04@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/05@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/Arrow-bottom@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/Arrow-top@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/BG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/Banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/Line@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/Logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/arrow-199-24.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/contact-photo-icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/footer_logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/girl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/information@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/item-Icon-1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/item-Icon-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/item-Icon-3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/plan-1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/plan-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/plan-3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/question@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/service-img-1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/service-img-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/service-img-3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/service-img-4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/service-img-5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets3/img/service-img-6@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/homepage_03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style_about.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/css/style_about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style_homepage02.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/css/style_homepage02.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/css/style_team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/about_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/about_bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/about_dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/about_dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/acc_icone.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/acc_icone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner_dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/banner_dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/booking_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/booking_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/booking_dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/booking_dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/categoru_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/categoru_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/clear_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/clear_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/costumer_dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/costumer_dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/costumer_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/costumer_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/featur_dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/featur_dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/featur_icon1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/featur_icon1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/featur_icon2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/featur_icon2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/featur_icon3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/featur_icon3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/featur_icon4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/featur_icon4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/footer_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/footer_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/header_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/header_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/map.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/numbers_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/numbers_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/portfolio_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/portfolio_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/process_bar.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/process_bar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/services_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets2/images/services_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets1/css/home_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/homepage_01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_about.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_homepage02.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/homepage_02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_team.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_team.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1osSXDnothawPQPsIGBI8LiDFVa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets2" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets1/css" />
+      <recent name="$PROJECT_DIR$/assets3" />
+      <recent name="$PROJECT_DIR$/assets2" />
+      <recent name="$PROJECT_DIR$/assets3/css" />
+      <recent name="$PROJECT_DIR$/assets1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8779d610-9887-4085-8fa3-56836c9492b5" name="Default Changelist" comment="" />
+      <created>1614073843412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614073843412</updated>
+      <workItem from="1614073844543" duration="4118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="208" width="598" height="490" key="find.popup" timestamp="1614078942970">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1614074366958" />
+    <state x="421" y="208" width="598" height="490" key="find.popup/0.23.1440.813@0.23.1440.813" timestamp="1614078942970" />
+  </component>
+</project>
