@@ -1090,6 +1090,10 @@ body {
     margin-left: 0;
 }
 
+.fab {
+    margin: 10px;
+}
+
 /* Media */
 
 @media (min-width: 991px) and (max-width: 1199px) {
@@ -1150,6 +1154,9 @@ body {
 
         width: 20px;
         height: 20px;
+    }
+    .fab {
+        margin: 0 0 0 -2px;
     }
 }
 
@@ -1242,6 +1249,9 @@ body {
         height: 20px;
     }
 
+    .fab {
+        margin: 0 0 0 -2px;
+    }
 }
 
 @media (min-width: 1199px) and (max-width: 1240px) {
