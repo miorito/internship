@@ -1,12 +1,15 @@
 :root {
     --white: #ffffff;
-    --white-dark: #F3F8FC;
+    --white-dark: #f3f8fc;
+    --blue-white: aliceblue;
     --blue-light-very: #00BAEC;
     --blue-light: #004976;
     --blue: #14396D;
     --blue-dark: #0E182B;
+    --gray: #686868;
     --gray-light: #B3B3B3;
     --yellow: #FEDB41;
+    --yellow-dark: #FFC600;
     --black: #000
 }
 
@@ -259,7 +262,7 @@ body {
     width: 70%;
 
     font-weight: 300;
-    color: #004976;
+    color: var(--blue-light);
 
     margin-left: 100px;
 }
@@ -949,7 +952,7 @@ body {
 .footer__btn{
     width: 70px;
 
-    background-color: #00BAEC;
+    background-color: var(--blue-light-very);
     font-size: 18px;
     border: 0;
     cursor: pointer;
@@ -1069,7 +1072,7 @@ body {
 .social__icon a {
     font-size: 30px;
 
-    color: #00BAEC;
+    color: var(--blue-light-very);
 
     width: 50px;
     height: 50px;
@@ -1088,6 +1091,10 @@ body {
 
 .social__icon a:first-child {
     margin-left: 0;
+}
+
+.fab {
+    margin: 10px;
 }
 
 /* Media */
@@ -1149,7 +1156,10 @@ body {
     .social__icon a {
 
         width: 20px;
-        height: 20px;
+        height: 30px;
+    }
+    .fab {
+        margin: 0 0 0 -2px;
     }
 }
 
@@ -1239,9 +1249,11 @@ body {
     .social__icon a {
 
         width: 20px;
-        height: 20px;
+        height: 30px;
     }
-
+    .fab {
+        margin: 0 0 0 -2px;
+    }
 }
 
 @media (min-width: 1199px) and (max-width: 1240px) {
