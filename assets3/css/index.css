@@ -180,10 +180,14 @@ body {
 .btn {
     background-color: var(--yellow);
     border: none;
+
+    cursor: pointer;
 }
 
 .btn.home__btn {
     margin: 0 40px 0 auto;
+
+    cursor: pointer;
 }
 
 .btn__plan {
@@ -191,6 +195,8 @@ body {
     border: solid 1px var(--yellow);
 
     margin-top: 30px;
+
+    cursor: pointer;
 }
 
 .btn__plan:hover, .btn__plan:active {
@@ -548,6 +554,8 @@ body {
 
     background: rgba(255, 255, 255, 0.02);
     margin: 0 30px 30px 0;
+
+    cursor: pointer;
 }
 
 .text_booking {
@@ -782,6 +790,8 @@ body {
     width: 3em;
 
     margin-bottom: 20px;
+    
+    cursor: pointer;
 }
 
 .arrow__yellow {
@@ -790,6 +800,8 @@ body {
 
     height: 3em;
     width: 3em;
+
+    cursor: pointer;
 }
 
 .arrow__blue img {
